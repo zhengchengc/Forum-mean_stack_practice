@@ -6,4 +6,4 @@ app.use((req, res, next) => {
 
 });
 
-module.export = app;
+module.exports = app;
